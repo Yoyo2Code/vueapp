@@ -7,17 +7,12 @@ new Vue({
   events: []
 },
 
-// Anything within the ready function will run when the application loads
 ready: function() {
-  // When the application loads, we want to call the method that initializes
-  // some data
   this.fetchEvents();
 },
 
-// Methods we want to use in our application are registered here
 methods: {
 
-  // We dedicate a method to retrieving and setting some data
   fetchEvents: function() {
     var events = [
       {

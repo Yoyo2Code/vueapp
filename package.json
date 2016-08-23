@@ -1,0 +1,24 @@
+{
+  "name": "vueapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoyo2Code/vueapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoyo2Code/vueapp/issues"
+  },
+  "homepage": "https://github.com/Yoyo2Code/vueapp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3"
+  }
+}
